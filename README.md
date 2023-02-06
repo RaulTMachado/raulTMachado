@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **raul.tmachado2@gmail.com**
 
-- ⚡ Fun fact **I'm not bald**
 
 
 <h3 align="left">Languages and Tools:</h3>

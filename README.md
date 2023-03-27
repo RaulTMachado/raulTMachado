@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raul.tmachado@gmail.com**
 
-- 📄 LinkedIn **https://linkedin.com/in/raultmachado/
+- 📄 LinkedIn **https://linkedin.com/in/raultmachado/**
 
 <h3 align="left">🛠 Skills</h3>
 <p align="left">

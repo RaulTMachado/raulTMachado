@@ -1,13 +1,11 @@
 <h1 align="center">Hi I'm Raul Teodoro Machado</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-- 🔭 I’m currently working on **Weber Bot**
+<h3 align="center">A curious developer from Brazil</h3>
 
 - 🌱 I’m currently learning **React, Node and Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaulTMachado/](https://github.com/RaulTMachado/)
 
-- 📫 How to reach me **raul.tmachado2@gmail.com**
+- 📫 How to reach me **raul.tmachado@gmail.com**
 
 
 

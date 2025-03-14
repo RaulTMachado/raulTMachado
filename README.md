@@ -35,14 +35,6 @@
       height="40"
     />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://nestjs.com/logo-small-gradient.76616405.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
